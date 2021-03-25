@@ -3,7 +3,7 @@ import {makeStyles} from '@material-ui/core/styles'
 import MenuIcon from '@material-ui/icons/Menu';
 import React from 'react'
 import './Navbar.css'
-import logo from './Mesah Logo 1 v2.png'
+import logo from './Mesah Logo 1 v2 (1).png'
 import InfoIcon from '@material-ui/icons/Info';
 import HomeIcon from '@material-ui/icons/Home';
 import { Link } from 'react-router-dom'
